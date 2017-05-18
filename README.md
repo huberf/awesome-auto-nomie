@@ -29,3 +29,4 @@ Plugins and add-ons for applications other than Nomie (e.g. git, vim, Visual Stu
 ## Near Automatic
 Tools and workflows for Nomie tracking that are so close to automatic they deserve to make the list.
 - [Garmin Watch Nomie Tracker](https://gist.github.com/huberf/8ecf6d3514e11ada83e6164789b4e37b) - This [Gist](https://gist.github.com/huberf/8ecf6d3514e11ada83e6164789b4e37b) details to the steps to setting up an easy to use "button" to quickly track up to four trackers with a simple tap.
+- [Google Assistant Tracker Skill](https://gist.github.com/huberf/b51832c3a76ecca8cbc5eb89eb2e93c7) - This [Gist](https://gist.github.com/huberf/b51832c3a76ecca8cbc5eb89eb2e93c7) guides you through how to setup tracking with Google Assistant via IFTTT and the Nomie Proxy server.
